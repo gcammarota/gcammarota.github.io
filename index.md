@@ -10,14 +10,14 @@ Then in 2014 I joined [B-Open][0] where I currently serve as Remote Sensing Spec
 
 Contact
 -------
-
 g.cammarota at gmail dot com
 
-[linkedin][1]
-
-[twitter][2]
+[![linkedin][linkedin]][1]
+[![twitter][twitter]][2]
 
 [a]: http://www.e-geos.it/
 [0]: https://bopen.eu
+[linkedin]: assets/linkedin.png
+[twitter]: assets/twitter.png
 [1]: https://www.linkedin.com/in/giuseppecammarota
 [2]: https://twitter.com/steekhutzie
