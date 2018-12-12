@@ -10,7 +10,7 @@ In 2014 I joined [B-Open][0] where I currently serve as Remote Sensing Specialis
 
 Contact
 -------
-g.cammarota at gmail dot com
+g.cammarota [at] gmail [dot] com
 
 [![linkedin][linkedin]][1]
 [![twitter][twitter]][2]
