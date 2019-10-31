@@ -7,8 +7,6 @@ Previosly I worked at [e-GEOS][a] as SAR Data Specialist.
 
 In 2014 I joined [B-Open][0] where I currently serve as Remote Sensing Specialist and Software Engineer enjoying geospatial and climate data analysis and manipulation using Python.
 
-
-Contacts
 --------
 
 [![linkedin][linkedin]][1]
