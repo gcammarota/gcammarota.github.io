@@ -17,4 +17,4 @@ In 2014 I joined [B-Open][0] where I currently serve as Remote Sensing Specialis
 [linkedin]: assets/linkedin.png
 [twitter]: assets/twitter.png
 [1]: https://www.linkedin.com/in/giuseppecammarota
-[2]: https://twitter.com/steekhutzie
+[2]: https://twitter.com/_gcammarota_
