@@ -20,7 +20,7 @@ I am currently involved in the development of the [EUMETSAT Data Tailor][c].
 
 [a]: http://www.e-geos.it/
 [b]: https://cds.climate.copernicus.eu/
-[c]: https://www.eumetsat.int/website/home/Data/DataDelivery/NewPilotDataServices/TheDataTailor/index.html
+[c]: https://www.eumetsat.int/data-tailor
 [0]: https://bopen.eu
 [linkedin]: assets/linkedin.png
 [twitter]: assets/twitter.png
