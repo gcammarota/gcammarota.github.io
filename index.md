@@ -25,4 +25,4 @@ I am currently involved in the development of the [EUMETSAT Data Tailor][c].
 [linkedin]: assets/linkedin.png
 [twitter]: assets/twitter.png
 [1]: https://www.linkedin.com/in/giuseppecammarota
-[2]: https://twitter.com/_gcammarota_
+[2]: https://twitter.com/GiusCammarota
