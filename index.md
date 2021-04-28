@@ -1,11 +1,11 @@
 Giuseppe Cammarota
 ==================
 
-I am a Telecommunication Engineer with experience in space-borne and air-borne remote sensed data analysis, hyper-spectral data, SAR data and algorithms development.
+I am an Earth observation specialist and software engineer with experience in space-borne and air-borne remote sensed data analysis, hyper-spectral data, SAR data and algorithms development.
 
-Previosly I worked at [e-GEOS][a] as SAR Data Specialist. 
+I worked at [e-GEOS][a] as SAR Data Specialist from 2011 to 2014.
 
-In 2014 I joined [B-Open][0] where I currently serve as Senior Scientific Software Engineer enjoying geospatial climate and satellite data analysis and processing with Python.
+In 2014 I have joined [B-Open][0] where I currently serve as Senior Scientific Software Engineer enjoying geospatial climate and satellite data analysis and processing with Python.
 
 I have developed a strong knowledge of scientific and numerical Python libraries like Xarray, Numpy and Scipy. I also have gained experience in the manipulation of data formats such as NetCDF and GRIB.
 
