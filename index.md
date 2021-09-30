@@ -11,7 +11,7 @@ I have developed a strong knowledge of scientific and numerical Python libraries
 
 I have contributed to the design, the development and the maintenance of the [Climate Data Store Toolbox][b] and also trained and supported its early users.
 
-I am currently involved in the development of the [EUMETSAT Data Tailor][c]. 
+Among other things, I am currently involved in the development of the [EUMETSAT Data Tailor][c]. 
 
 --------
 
