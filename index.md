@@ -5,7 +5,7 @@ I am an Earth observation specialist and software engineer with experience in sp
 
 I worked at [e-GEOS][a] as SAR Data Specialist from 2011 to 2014.
 
-In 2014 I have joined [B-Open][0] where I currently serve as Earth observation specialist, algorithm analyst and senior scientific software engineer enjoying climate and satellite geospatial data analysis and processing with Python.
+In 2014 I have joined [B-Open][0] where I currently serve as Earth observation specialist, algorithm specialist and senior scientific software engineer enjoying climate and satellite geospatial data analysis and processing with Python.
 
 I have developed a strong knowledge of scientific and numerical Python libraries like Xarray, Numpy and Scipy. I also have gained experience in the manipulation of data formats such as NetCDF and GRIB.
 
