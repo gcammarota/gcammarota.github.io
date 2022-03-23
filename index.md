@@ -25,4 +25,4 @@ Among other things, I am currently involved in the development of the [EUMETSAT 
 [linkedin]: assets/linkedin.png
 [twitter]: assets/twitter.png
 [1]: https://www.linkedin.com/in/giuseppecammarota
-[2]: https://twitter.com/GiusCammarota
+[2]: https://twitter.com/peppe_cammarota
