@@ -32,3 +32,5 @@ Among other things, I am currently involved in the development of the [EUMETSAT 
 [1]: https://www.linkedin.com/in/giuseppecammarota
 [2]: https://twitter.com/_cammarota_
 [3]: https://fosstodon.org/@gcammarota
+
+<a rel="me" href="https://fosstodon.org/@gcammarota"></a>
