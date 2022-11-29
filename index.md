@@ -20,6 +20,7 @@ Among other things, I am currently involved in the development of the [EUMETSAT 
 [![linkedin][linkedin]][1]
 [![twitter][twitter]][2]
 [![mastodon][mastodon]][3]
+<a rel="me" href="https://fosstodon.org/@gcammarota"></a>
 
 
 [a]: http://www.e-geos.it/
@@ -32,5 +33,3 @@ Among other things, I am currently involved in the development of the [EUMETSAT 
 [1]: https://www.linkedin.com/in/giuseppecammarota
 [2]: https://twitter.com/_cammarota_
 [3]: https://fosstodon.org/@gcammarota
-
-<a rel="me" href="https://fosstodon.org/@gcammarota"></a>
