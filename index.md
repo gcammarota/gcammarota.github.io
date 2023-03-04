@@ -7,13 +7,13 @@ I worked at [e-GEOS][a] as SAR Data Specialist from 2011 to 2014.
 
 In 2014 I have joined [B-Open][0] where I currently serve as Earth observation specialist and senior scientific software engineer enjoying climate and satellite geospatial data analysis and processing with Python.
 
-I have developed a strong knowledge of scientific and numerical Python libraries like Xarray, Numpy and Scipy. I have gained proficiency in the manipulation of data formats such as NetCDF and GRIB.
+I have developed a strong knowledge of scientific and numerical libraries like Xarray, Numpy, Scipy, and the geospatial library GDAL. I have gained proficiency in the manipulation of data formats such as NetCDF and GRIB.
 
 I also have gained major experience with platforms as Docker and Kubernetes, and acquired strong knowledge of CI/CD practices, mainly implemented using GitLab pipelines.
 
 I have contributed to the design, the development and the maintenance of the [Climate Data Store Toolbox][b] and also trained and supported its early users.
 
-Among other things, I am currently involved in the development of the [EUMETSAT Data Tailor][c]. 
+Among other projects, I am currently involved in the development of the [EUMETSAT Data Tailor][c]. 
 
 --------
 
